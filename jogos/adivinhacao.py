@@ -7,8 +7,6 @@ numero_secreto = random.randint(1,101)
 total_de_tentativas = 0
 pontos = 0
 
-print(f'número secredo é {numero_secreto}')
-
 print('''Dificuldades:
 [1] - Fácil (20 Tentativas e 2000 pontos)
 [2] - Médio (10 Tentativas e 1000 pontos)
