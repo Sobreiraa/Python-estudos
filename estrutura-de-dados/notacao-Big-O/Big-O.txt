@@ -1,0 +1,8 @@
+Notação Big-O
+* Como comparar dois algoritmos?
+* Comparação objetiva entra algoritmos.
+* Considerar diferenças entre poder de processamento, sistema operacional, linguagem de programação.
+* O quanto a "complexidade" do algoritmo aumenta de acordo com as entradas.
+
+# https://wiki.python.org/moin/TimeComplexity
+# https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
