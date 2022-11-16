@@ -3,7 +3,7 @@ Neste repositório tem os meus primeiros códigos em **python**, onde criei algu
 
 Os códigos estão separados por:
 
-### 2. Estrutura de Dados
+### 1. Estrutura de Dados
 Alguns conceitos de estrutura de dados em python, que aprendi durante vídeos no youtube e também em aulas na faculdade.
 ***
 
