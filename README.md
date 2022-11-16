@@ -13,13 +13,14 @@ São 2 jogos ao todo, um de **adivinhação** e o outro de **forca**. O de adivi
 Link dos cursos: <https://cursos.alura.com.br/course/python-introducao-a-linguagem> e também <https://cursos.alura.com.br/course/python-3-avancando-na-linguagem>
 ***
 
-### 2. Exercícios POO
-São exercícios, mas estão separados da pasta de exercícios pois utilizei programação Orientada a Objetos. Resolvi os exercícios através do curso da Geek university novamente.
+
+### 3. Programação Orientada a Objetos
+Conceitos e exercícios sobre POO que aprendi e resolvi durante o curso da Geek university.
 Link do curso: <https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/>
 ***
 
 
-### 3. Exercícios
-Exercícios que resolvi durante o curso da **Geek university** disponível na **Udemy**. 
+### 4. Programação Procedural
+Exercícios que resolvi durante o curso da **Geek university** disponível na **Udemy** e também no canal Curso em vídeo. 
 Link do curso: <https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/>
 ***
