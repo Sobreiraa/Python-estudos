@@ -1,0 +1,12 @@
+Programação orientada a objetos - Programação
+
+- POOO é um paradigma de Programação que utiliza mapeamento de objetos do mundo real para modelos computacionais.
+
+- Paradigma de programação é a forma/metodologia utilizada para pensar/desenvolver sistemas.
+
+Principais elementos da orientação a objetos:
+- Classe -> Modelo do objeto do mundo real sendo representado computacionalmente
+- Atributo -> Características do objeto
+- Método -> Comportamento do objeto (Funções)
+- Construtor -> Método especial utilizado para criar os objetos
+- Objeto -> Instância da classe 
