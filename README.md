@@ -7,7 +7,7 @@ Os códigos estão separados por:
 Alguns conceitos de estrutura de dados em python, que aprendi durante vídeos no youtube e também em aulas na faculdade.
 ***
 
-### 2. POO
+### 2. Exercícios POO
 São exercícios, mas estão separados da pasta de exercícios pois utilizei programação Orientada a Objetos. Resolvi os exercícios através do curso da Geek university novamente.
 Link do curso: <https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/>
 ***
